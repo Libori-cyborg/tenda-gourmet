@@ -123,7 +123,7 @@
             <div class="col-md-4">
                 <h6>Autors</h6>
                 <p class="small mb-0">
-                    <em>[El teu nom] — CFGS ASIX Ciberseguretat</em><br>
+                    <em>Arnau Libori i Anas Amjahad — CFGS ASIX Ciberseguretat</em><br>
                     Institut de Lliçà — 2026
                 </p>
             </div>
